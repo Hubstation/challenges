@@ -1,0 +1,2 @@
+Challenge: Install grafana on Kubernetes
+Expectation: Grafana deployed on kubernetes and UI reachable via internet.
