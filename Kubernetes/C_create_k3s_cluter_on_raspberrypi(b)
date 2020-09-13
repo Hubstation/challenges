@@ -1,2 +1,2 @@
 Challenge: Create a k3s cluster on Raspberrypi
-Expectation: "kubectl get" nodes show a minimum single node k3s raspberrypi cluster.
+Expectation: "kubectl get nodes" show a minimum single node k3s raspberrypi cluster.
