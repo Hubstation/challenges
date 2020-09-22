@@ -145,7 +145,7 @@ You will paste the bearer-token into the login prompt.
 
 
 
-![kube-dash-login](../../challenges/images/kube-dash-login.png)
+![kube-dash-login](https://raw.githubusercontent.com/Hubstation/challenges/master/images/kube-dash-login.png)
 
 
 
@@ -153,4 +153,4 @@ And you are presented with the Kuberbetes Dashboard.
 
 
 
-![kube-dash-solution](../../challenges/images/kube-dash-solution.png)
+![kube-dash-solution](https://raw.githubusercontent.com/Hubstation/challenges/master/images/kube-dash-solution.png)
