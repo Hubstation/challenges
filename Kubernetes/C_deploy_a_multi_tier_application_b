@@ -1,0 +1,2 @@
+Challenge: Deploy a multi-tier application in a Kubernetes cluster.
+Expectation: Deploy an application that has at least two components to your Kubernetes cluster.

@@ -1,0 +1,2 @@
+Challenge: Deploy an Develop an application directly in a Kubernetes cluster
+Expectation: Deploy a hello-world application in Kubernetes, launch a development environment with [okteto](https://github.com/okteto/okteto), customize the message and see the result without rebuilding or redeploying.

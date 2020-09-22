@@ -1,0 +1,2 @@
+Challenge: Scale up your application when it receives traffic
+Expectation: The number of replicas of your application automatically increases when the container CPU exceeds 50%

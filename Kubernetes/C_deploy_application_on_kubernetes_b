@@ -1,0 +1,2 @@
+Challenge: Deploy an application in a Kubernetes cluster
+Expectation: Deploy an application that's accessible outside of your cluster, including a deployment, a service and an ingress.

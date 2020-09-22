@@ -1,0 +1,2 @@
+Challenge: Access an application in a different namespace
+Expectation: Deploy an application with two services that talk to each other, deployed each on a different namespace
