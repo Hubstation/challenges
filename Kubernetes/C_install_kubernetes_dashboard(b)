@@ -1,0 +1,2 @@
+Challenge: Install the official Kubernetes Dashboard on a running k8s cluster. 
+Expectation: "kubectl port-forward" and access the dashboard, login with the admin-user token..
