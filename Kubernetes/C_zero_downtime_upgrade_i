@@ -1,0 +1,2 @@
+Challenge: Zero downtime upgrade
+Expectation: Upgrade a deployment while it receives continuous traffic.

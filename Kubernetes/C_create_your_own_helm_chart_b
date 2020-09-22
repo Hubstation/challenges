@@ -1,0 +1,2 @@
+Challenge: Create your own Helm Chart
+Expectation: Deploy an instance of the dockercloud/hello-world container using a Helm Chart you created

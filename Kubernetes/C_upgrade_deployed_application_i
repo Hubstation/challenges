@@ -1,0 +1,2 @@
+Challenge: Upgrade a running application
+Expectation: Use kustomize to upgrade the image of a running application
