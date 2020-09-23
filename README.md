@@ -12,7 +12,7 @@
 
 - Consider the above example for creating a challenge. A person who submits the challenge has to submit the solution as well.
 - A Challenge will be part of a technology which will be a directory in the repo. In above case Kubernetes in the technology so any challanges related to Kubernetes should go under the Kubernetes directory.
-- in above scenario C represents a challenge and S represents a solution, with "(b)" representing the difficulty level which is beginner in this case. Other levels include -> Intermediate - "(I)" and Expert - "(E)"
+- in above scenario C represents a challenge and S represents a solution, with "_B" or "_b" representing the difficulty level which is beginner in this case. Other levels include -> Intermediate - "_I" or "_i" and Expert - "_E" or "_e"
 
 ### Challenge format
 To Keep things simple content inside the challenges can be in the form of a scenario with expectation. Like in above case it is a simple challenge to create a k3s cluster on raspberrypi. So you can have below portions in Challenge :
