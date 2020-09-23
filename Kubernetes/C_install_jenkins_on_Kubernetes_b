@@ -1,0 +1,2 @@
+Challenge: Install jenkins on a Kubernetes cluster
+Expectaions: Jenkins deployed on Kubernetes and UI reachable from a browser
