@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package hello ;
+
+option go_package="protos/go/hello";
+
+
+message Null{
+    //intentionally empty 
+}
+
+// Example of returning response
+service Welcome{
+    rpc World(Null) returns (Person);
+}
+
+message Person{
+    string name =1;
+}
