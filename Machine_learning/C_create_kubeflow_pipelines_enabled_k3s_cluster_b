@@ -1,0 +1,5 @@
+Chalenge:
+Create a k3s cluster and install kubeflow pipelines on it
+
+Expectation:
+Kubeflow piepline running 
