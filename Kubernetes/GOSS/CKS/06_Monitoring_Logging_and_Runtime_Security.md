@@ -1,4 +1,4 @@
-Challenge: Develop a validating tooling to check against challenge solutions targted toward resolving the the CKS objective "Monitoring, Logging and Runtime Security"
+**Challenge**: Develop a validating tooling to check against challenge solutions targted toward resolving the the CKS objective "Monitoring, Logging and Runtime Security"
 this could be 6 sub-tasks as described in the [CKS website](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
 
   * Perform behavioral analytics of syscall process and file activities at the host and container level to detect malicious activities
@@ -14,4 +14,5 @@ this could be 6 sub-tasks as described in the [CKS website](https://training.lin
   * Use Audit Logs to monitor access
     - genertae audit events (simulation) and see responses.
 
-Possible tooling: use [Goss](https://github.com/aelsabbahy/goss) for local tests, for network it might be extra challenging, however, lets start small.
+**Possible tooling**: use [Goss](https://github.com/aelsabbahy/goss) for local tests, for network it might be extra challenging, however, lets start small.
+**Expectations**: score matrix, or GREEN pass for each task done.
