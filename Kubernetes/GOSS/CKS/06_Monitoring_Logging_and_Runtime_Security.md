@@ -1,5 +1,6 @@
-# Challenge: Develop a validating tooling to check against challenge solutions targted toward resolving the the CKS objective "Monitoring, Logging and Runtime Security"
-## this could be 6 sub-tasks as described in the [CKS website](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+Challenge: Develop a validating tooling to check against challenge solutions targted toward resolving the the CKS objective "Monitoring, Logging and Runtime Security"
+this could be 6 sub-tasks as described in the [CKS website](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+
   * Perform behavioral analytics of syscall process and file activities at the host and container level to detect malicious activities
     - Test can check an outputfile for known artifacts that were setup and examinee was supposed to find them using any technique/tooling he knows
   * Detect threats within physical infrastructure, apps, networks, data, users and workloads
